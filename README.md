@@ -1,0 +1,2 @@
+# happyhouse
+This project uses pictures from the front door camera to check if the person is happy or not. The door will open only if the person is happy.  The project " Happy House V2 " is implemented using Keras with improved performence "Training set accuracy - 99.33%" and "Test set accuracy - "98%".  The architecture used in this project is Convolution -> MaxPool -> Convolution -> AveragePool -> Fully Connected. 
